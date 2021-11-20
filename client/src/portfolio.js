@@ -252,7 +252,7 @@ const projects = {
     {
       id: "1",
       name: "Qnotes",
-      url: "https://vvhacker007.github.io/Portfolio/",
+      url: "",
       description: "It has simple data store application using MERN Stack ",
       languages: [
         {
@@ -285,7 +285,7 @@ const projects = {
     {
       id: "2",
       name: "Portfolio Website",
-      url: "https://vvhacker007.github.io/Portfolio/",
+      url: "https://brpportfolio.herokuapp.com/#/home",
       description: "Present viewing application 😉",
       languages: [
         {
