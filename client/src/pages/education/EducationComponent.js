@@ -27,7 +27,7 @@ function Education(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I have completed Masters in Electronics
+                I have completed Master of Technology in Electronics
               </p>
             </div>
           </div>
