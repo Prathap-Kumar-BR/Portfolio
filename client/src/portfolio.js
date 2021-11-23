@@ -124,6 +124,13 @@ const skills = {
             color: "#6863A6",
           },
         },
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "simple-icons:redux",
+          style: {
+            color: "#6863A6",
+          },
+        },
       ],
     },
   ],
@@ -252,7 +259,7 @@ const projects = {
     {
       id: "1",
       name: "Qnotes",
-      url: "",
+      url: "https://qnotes2021.herokuapp.com/",
       description: "It has simple data store application using MERN Stack ",
       languages: [
         {
